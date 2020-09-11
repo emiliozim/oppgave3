@@ -9,4 +9,5 @@ git fetch --all
 git checkout master
 git merge dev
 git add mergeConflict.PNG
+git commit -m "last update!"
 git push origin master
